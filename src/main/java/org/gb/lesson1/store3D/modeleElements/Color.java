@@ -2,7 +2,9 @@ package org.gb.lesson1.store3D.modeleElements;
 
 public class Color {
 
-//    region Construction
+    private final String color;
+
+    //    region Construction
     public Color(String color) {
         this.color = color;
     }
@@ -19,7 +21,8 @@ public class Color {
 
 //    region Private Fields
     private int id;
-    private String color;
+    private String COLOR;
+
 
 //    endregion
 
