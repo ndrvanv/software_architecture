@@ -62,12 +62,12 @@ public static void main(String[] args) {
 //    harvester.setRefuelingStation(refulingStation);
 //    harvester.fuel();
 
-    Airplane airplane = new Airplane("C", "D", Color.WHITE);
-    airplane.setCarService();
-    airplane.service();
-
-    airplane.setRefuelingStation(refulingStation);
-    airplane.fuel();
+//    Airplane airplane = new Airplane("C", "D", Color.WHITE);
+//    airplane.setCarService();
+//    airplane.service();
+//
+//    airplane.setRefuelingStation(refulingStation);
+//    airplane.fuel();
 
 
 }

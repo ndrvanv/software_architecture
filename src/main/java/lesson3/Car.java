@@ -37,11 +37,11 @@ public abstract class  Car{
     /**
      * Обслуживание
      */
-    public void service(){
-        if (carService != null){
-            carService.service();
-        }
-    }
+//    public void service(){
+//        if (carService != null){
+//            carService.service();
+//        }
+//    }
 
 // region Methods
     public abstract void movement();
