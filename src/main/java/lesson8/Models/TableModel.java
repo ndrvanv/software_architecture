@@ -41,7 +41,7 @@ public class TableModel implements Model {
                 if (reservation.getId() == reservationId) {
                     table.getReservations().remove(reservation);
 
-                    // Find the new table
+                    // поиск столика
                     for (Table newTable : tables) {
                         if (newTable.getNo() == newTableNo) {
                             reservation.setTableNo(newTableNo);
