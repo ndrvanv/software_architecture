@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6atfSG3q+xBAJiuu4svqlVgkgsViZahaSiBsVEQePD9lvrctjgwUIz+orRbtykpJjizluiQEGCB25NFYKk/auw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\1311103\\OneDrive\\Рабочий стол\\GB\\архитектура_по\\lesson1\\src\\main\\java\\lesson9\\MyFirstWebApplication\\MyFirstWebApplication\\MyFirstWebApplication.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Локальный источник \"D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\" не существует.",
+      "libraryId": "Swashbuckle.AspNetCore"
+    }
+  ]
+}
